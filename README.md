@@ -19,7 +19,7 @@ Morpholical Operations are also done after each respective part:
 - Erosion
 - Dilation
 - Opening
-- Closing
+- Closing\n
 These operations are also evaluated using PSNR to see if they improve the segmentation results.
 
 # Conclusion
