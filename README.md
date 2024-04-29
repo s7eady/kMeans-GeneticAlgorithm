@@ -1,6 +1,11 @@
 # kMeans-GeneticAlgorithm
 An image segmentation project using k-means algorithm to segment pictures, and improving the segmentation by using a genetic algorithm metaheuristic approach to output the best centroids.
 
+# There are 3 files for this project:
+- "kMeansGA.ipynb": which is the source code
+- "coins.png": Image file used for segmentation
+- "Coins-GT.png": Ground Truth for "coins.png" to perform evaluation of segmentation
+
 ## Part 1: Vanilla k-Means Segmentation
 - Just using openCV library to perform this task with k = 2, as I wanted to only segment the image into 2 parts
   
